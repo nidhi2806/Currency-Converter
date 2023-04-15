@@ -19,7 +19,6 @@ class RealTimeCurrencyConverter():
         return amount
  
 class App(tk.Tk):
- 
     def _init_(self, converter):
         tk.Tk._init_(self)
         self.title = 'Currency Converter'
