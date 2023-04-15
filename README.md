@@ -1,1 +1,1 @@
-Project aims at helps the user to convert one currency to another currency
+Project aims at helps the user to convert one currency to another currency using Python Language with TKINTER Library
